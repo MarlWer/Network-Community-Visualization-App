@@ -9,6 +9,6 @@ For further information regarding the background and use of the app, you can con
 
 
 # References
-Csardi, G. (2015). Package ‘igraph’ Network Analysis and Visualization. https://cran.r-	project.org/ web/packages/igraph/igraph.pdf
+Csardi, G. (2015). Package ‘igraph’ Network Analysis and Visualization. https://cran.r-project.org/web/packages/igraph/igraph.pdf
 
 Epskamp, S., Costantini, G., Haslbeck, J., Cramer, A.O.J., Waldorp, L.J., Schmittmann, V.D., 	Borsboom, D. (2017). Package ‘qgraph’. Graph Plotting Methods, Psychometric Data 	Visualization and Graphical Model Estimation. https://cran.rproject.org/web/packages/qgraph/qgraph.pdf
